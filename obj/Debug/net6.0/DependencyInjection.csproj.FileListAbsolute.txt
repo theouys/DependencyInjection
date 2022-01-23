@@ -1,0 +1,15 @@
+/home/theo/Desktop/git/DependencyInjection/bin/Debug/net6.0/DependencyInjection
+/home/theo/Desktop/git/DependencyInjection/bin/Debug/net6.0/DependencyInjection.deps.json
+/home/theo/Desktop/git/DependencyInjection/bin/Debug/net6.0/DependencyInjection.runtimeconfig.json
+/home/theo/Desktop/git/DependencyInjection/bin/Debug/net6.0/DependencyInjection.dll
+/home/theo/Desktop/git/DependencyInjection/bin/Debug/net6.0/ref/DependencyInjection.dll
+/home/theo/Desktop/git/DependencyInjection/bin/Debug/net6.0/DependencyInjection.pdb
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.csproj.AssemblyReference.cache
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.AssemblyInfoInputs.cache
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.AssemblyInfo.cs
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.dll
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/ref/DependencyInjection.dll
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.pdb
+/home/theo/Desktop/git/DependencyInjection/obj/Debug/net6.0/DependencyInjection.genruntimeconfig.cache
